@@ -51,4 +51,4 @@ document
         }
     });
 
-weather.fetchWeather("Denver");
+weather.fetchWeather("kolkata");
